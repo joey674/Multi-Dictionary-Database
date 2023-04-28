@@ -1,5 +1,5 @@
-# Unordered_Map
-Unordered_Map/Singlton/shared_ptr/init_list
+# Unordered_Map/Singlton/shared_ptr/init_list
+
 
 无序图的查询是n（1）的 基础是哈希表 有序图的查询是o（logn）基础是二叉树 按顺序排列。所以设计中，涉及到无序数据的用无序图更快，有序数据在有需求的时候可以善用有序图。
 
