@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/create.h
+iostream
+-
+fstream
+-
+cstring
+-
+random
+-
+boost/uuid/uuid.hpp
+-
+boost/uuid/uuid_generators.hpp
+-
+boost/uuid/uuid_io.hpp
+-
+memory
+-
+meta_img.h
+../lib/meta_img.h
+
+../lib/meta_img.h
+stdint.h
+-
+
+/root/user/metaImage/src/create.cpp
+create.h
+/root/user/metaImage/src/create.h
+
