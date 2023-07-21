@@ -1,5 +1,5 @@
-#ifndef __D3FS_META_META_IMG_H__
-#define __D3FS_META_META_IMG_H__
+#ifndef __IMG_H__
+#define __IMG_H__
 
 #include <stdint.h>
 
