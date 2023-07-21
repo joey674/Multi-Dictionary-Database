@@ -1,6 +1,6 @@
 # Unordered_Map/Singlton/shared_ptr/init_list
 
-
+note：
 无序图的查询是n（1）的 基础是哈希表 有序图的查询是o（logn）基础是二叉树 按顺序排列。所以设计中，涉及到无序数据的用无序图更快，有序数据在有需求的时候可以善用有序图。
 
 键值查询中尽量避免使用遍历的函数 比如equal_range这样的函数，或者是for循环。比如说与其用equalrange，相对应的可以用upperbound和lowerbound设计指针迭代，从而提高效率
