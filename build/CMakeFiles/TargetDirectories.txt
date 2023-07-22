@@ -1,4 +1,0 @@
-/root/user/metaImage/build/CMakeFiles/rebuild_cache.dir
-/root/user/metaImage/build/CMakeFiles/edit_cache.dir
-/root/user/metaImage/build/CMakeFiles/main.dir
-/root/user/metaImage/build/CMakeFiles/library.dir
